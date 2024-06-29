@@ -14,7 +14,7 @@ Dicho proyecto, fue creado con la finalidad de practicar mis abilidades con JS.
 
 <!-- Evidencia, capturas de pantalla, el link al proyecto. -->
 ### Evidencia
-Link al proyecto: [miportafolio](https://portafolio-fercruzh.netlify.app/)
+Link al proyecto: [bateria.fch](https://bateria-fch.netlify.app/)
 
 <!-- Descripción del proyecto, cómo se contruyó. -->
 ### Descripción
